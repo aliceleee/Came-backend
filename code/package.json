@@ -1,0 +1,10 @@
+{
+    "name": "came",
+    "version": "0.0.1",
+    "dependencies": {
+        "body-parser": "1.18.2",
+        "connect-multiparty": "2.1.0",
+        "express": "4.16.0",
+        "mysql": "2.15.0"
+    }
+}
